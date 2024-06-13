@@ -19,6 +19,7 @@
 contract CustomToken {
 
 // public variables here
+
 string public tokenName = "MyCustomToken";
 string public tokenSymbol = "MCT";
 uint public totalSupply = 0;
